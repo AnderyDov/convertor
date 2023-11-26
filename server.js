@@ -11,4 +11,4 @@ server.use((req, res) => {
     res.send('error');
 });
 
-server.listen(3200);
+server.listen(3000);
