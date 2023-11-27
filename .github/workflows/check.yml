@@ -9,4 +9,4 @@ jobs:
             - name: InstallDeps
               run: npm ci
             - name: ConsoleLog
-              run: echo "HELLO RUNER"
+              run: echo "HELLO RUNER1"
